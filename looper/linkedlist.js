@@ -84,6 +84,7 @@ class LinkedList {
     }
     return curr
   }
-};
+
+}
 
 module.exports = LinkedList
